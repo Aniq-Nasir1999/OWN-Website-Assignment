@@ -1,0 +1,150 @@
+.navbar{
+    background-color: blue !important;
+    
+    font-weight: bold;
+}
+.nav-link{
+    color:rgb(247, 247, 128) !important;
+}
+.nav-link:hover{
+    color: yellow !important;
+}
+.logo{
+    width: 100px;
+    height: 50px;
+}
+.dropdown-item{
+    background-color:rgb(247, 247, 128) !important;
+}
+.dropdown-item:hover{
+    background-color: yellow !important;
+}
+h5,p{
+    color: yellow !important;
+    font-weight: bold;
+}
+.card1, .card2, .card3{
+    display: flex;
+    width: 400px;
+    height: 60px;
+    background-color: blue;
+    margin-top: 10px;
+    box-shadow: 2px 2px 4px black;
+    justify-content: center;
+    align-items: center;
+}
+.mainCard{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.fa-motorcycle, .fa-clock-o, .fa-thumbs-up{
+    font-size: 50px !important;
+    color: yellow !important;
+    margin-right: 10px;
+}
+.card{
+    margin-top: 20px;
+    margin-left: 30px;
+    display: inline-flex;
+}
+.card-title{
+    color: blue !important;
+}
+.card-text{
+    color: red !important;
+}
+.btn-primary{
+    background-color: blue !important;
+    color: yellow !important;
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    margin-top: 20px;
+    color: blue !important;
+    background-color: yellow !important;
+}
+.footer{
+    background-color: blue !important;
+    color: yellow !important;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.about{
+    
+    width: 100%;
+    height: auto;
+}
+.colortext{
+    color: blue !important;
+}
+.cont{
+    text-align: center;
+}
+.bor{
+    border: 1px black;
+}
+input.email{
+    background-image: url('https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png');
+    background-size: 40px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 40px;
+}
+input.password{
+    background-size: 40px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 40px;
+}
+label{
+    display: inline-block;
+    width: 100px;
+    text-align: left;
+
+}
+fieldset{
+    border-radius: 10px;
+}
+legend{
+    padding: 5px;
+    background-color: gold;
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+}
+div{
+    text-align: center;
+} 
+.contc{
+    display: inline-flex;
+    width: 400px;
+    height: 60px;
+    background-color: blue;
+    margin-top: 10px;
+    box-shadow: 2px 2px 4px black;
+    justify-content: center;
+    align-items: center;
+
+}
+.contd{
+    display: inline-flex;
+    width: 100px;
+    height: 60px;
+    background-color: yellow;
+    margin-top: 10px;
+    box-shadow: 2px 2px 4px black;
+    justify-content: center;
+    align-items: center;
+}
+.em{
+    color: blue !important;
+}
+.map{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
